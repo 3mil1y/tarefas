@@ -24,6 +24,6 @@ spl_autoload_register(function ($className) {
     if (file_exists($filePath)) {
         require_once $filePath;
     } else {
-        throw new Exception("A classe: {$className} não foi encontrada em {$filePath}.");
+        throw new Exception("A classe: {$className} nao foi encontrada em {$filePath}.");
     }
 });

@@ -1,8 +1,8 @@
 <?php
 require_once "../app/core/autoloader.php";
 
-use App\Components\Layout\Head;
-use App\Components\Layout\Header;
+use Components\Layout\Head;
+use Components\Layout\Header;
 use App\Components\Layout\FlashMessage;
 use App\Components\Lists\TaskList;
 

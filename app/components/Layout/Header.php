@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Components\Layout;
+namespace Components\Layout;
 
 class Header {
     public static function render(): string {

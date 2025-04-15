@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Components\Layout;
+namespace Components\Layout;
 
 class Head {
     public static function render(string $title = 'Lista de Tarefas'): string {
