@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entities;
+namespace App\entities;
 
 class Task {
     private int $index;

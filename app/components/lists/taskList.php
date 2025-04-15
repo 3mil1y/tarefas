@@ -2,7 +2,7 @@
 
 namespace App\Components\lists;
 
-use App\Entities\Task;
+use App\entities\Task;
 
 class TaskList {
 
