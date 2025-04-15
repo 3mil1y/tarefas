@@ -11,7 +11,7 @@ class Head {
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>' . $title . '</title>
             
-            <base href="/tarefas/">
+            <base href="/">
 
             <link rel="stylesheet" href="public/css/main.css">
             <script src="public/js/main.js"></script>
